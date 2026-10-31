@@ -2,7 +2,8 @@
 // пока в ссылке есть TODO - кнопка ведёт на DEFAULT_INVITE.
 var INVITES = {
   meta_face: 'https://t.me/+inwZqBGL_ZAwODMy',
-  meta_agency: 'https://t.me/+C2C01SB5NuZhYTEy'
+  meta_agency: 'https://t.me/+C2C01SB5NuZhYTEy',
+  meta_video: 'https://t.me/+X-a2bVTnvYllNjIy'
 };
 var DEFAULT_INVITE = 'https://t.me/sirka_cpa';
 
